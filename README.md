@@ -1,3 +1,5 @@
+Live site at: https://list-o-links-fauna-john.netlify.app/
+
 # JAMstack Crash Course - Build a Fullstack App with React, Serverless, and FaunaDB
 
 This is the source code for the [JAMstack Crash Course video on
